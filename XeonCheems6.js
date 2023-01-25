@@ -9372,7 +9372,7 @@ const buttonMessage = {
 ╠ ${prefix}truth
 ╠ ${prefix}dare
 ╠ ${prefix}tictactoe
-╠ ${prefix}delttt
+╠ ${prefix}deltttyyyyyrt
 ╠ ${prefix}guess [option]
 ╠ ${prefix}math [mode]
 ╠ ${prefix}suitpvp [tag]
@@ -9447,7 +9447,7 @@ const buttonMessage = {
     caption: `╔═══════✪ OTHER 	
 ╠ ${prefix}afk
 ╠ ${prefix}id
-╠ ${prefix}toqr [link]
+╠ ${prefix}toqr [li🎥🎶nk]
 ╠ ${prefix}repeat
 ╠ ${prefix}readmore [text]
 ╠ ${prefix}toviewonce
@@ -9485,11 +9485,11 @@ const buttonMessage = {
     image: unicorn,
     caption: `╔═══════✪「 BUG MENU 」	
 ╠════☾pc attack☽
-╠${prefix}pcbut [number]
+╠${prefix}pcbut [numddddd📹🎥ber]
 ╠${prefix}pcvn [number]
 ╠${prefix}pcstick [number]
 ╠${prefix}pcfast [number]
-╠${prefix}pcslow [number]
+╠${prefix}pcslow [numbe🎶🎥r]
 ╠${prefix}pcbunny [number]
 ╠${prefix}xcrasher [amount]
 ╠${prefix}pccontact [amount]

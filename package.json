@@ -81,10 +81,10 @@
     "src": "src"
   },
   "devDependencies": {},
-  "repository": "git+https://github.com/DGXeon/CheemsBot-MD6.git",
+  "repository": "git+https://github.com/Yureshkavind/yuresh.git",
   "bugs": {
-    "url": "https://github.com/DGXeon/CheemsBot-MD6/issues"
+    "url": "https://github.com/Yureshkavind/yuresh/issues"
   },
-  "homepage": "https://github.com/DGXeon/CheemsBot-MD6/#readme",
+  "homepage": "https://github.com/Yureshkavind/yuresh/#readme",
   "main": "index.js"
 }
